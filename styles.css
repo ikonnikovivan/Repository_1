@@ -24,6 +24,8 @@ nav {
 a {
     text-decoration: none;
     color: rgb(56, 71, 73);
+    
+    color: black;
 }
 
 a:hover {
