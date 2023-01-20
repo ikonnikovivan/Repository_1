@@ -8,8 +8,13 @@ html, body {
 }
 
 h1 {
+<<<<<<< HEAD
     
     color: #880303;
+=======
+    font-size: 36px;
+    color: #232323;
+>>>>>>> 10fc851ba6ed16ff3659be3146fc273e55a56ce1
     margin: 0;
     text-align: center;
 }
